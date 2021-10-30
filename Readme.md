@@ -50,7 +50,7 @@ _HTTP Clients accessible from terminal._
 
 _Web based HTTP Clients (Websites, Browser extensions)._
 
-- [Swagger](https://swagger.io/tools/swagger-editor/) - Design, describe, and document your API on the first open source editor fully dedicated to OpenAPI-based APIs..
+- [Swagger](https://swagger.io/tools/swagger-editor/) - Design, describe, and document APIs on open source editor dedicated to OpenAPI-based APIs.
 - [Hoppscotch](https://hoppscotch.io/) - Open source API development ecosystem.
 - [RESTer](https://github.com/frigus02/RESTer) - Browser extension REST client for almost any web service.
 - [Stoplight](https://stoplight.io/) - Stoplight is an API Design, Development, and Documentation platform.
