@@ -26,7 +26,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [API Test Base](https://apitestbase.io/) - Tool for integration testing a variety of APIs.
 - [Test Mace](https://testmace.com/) - Tool for working with an API and creating automated API tests.
 - [FRequest](https://fabiobento512.github.io/FRequest/) - A fast, lightweight and open-source desktop application to make HTTP(s) requests.
-- [HttpMaster](https://www.httpmaster.net/) (Windows) - Professional Windows tool for HTTP testing and debugging. Powered by Microsoft .NET.
+- [HttpMaster](https://www.httpmaster.net/) (Windows) - Professional Windows tool for HTTP testing and debugging.
 - [Milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench.
 - [Amialive](https://amialive.co/) (macOS, Linux) - Simple yet powerful HTTP client.
 - [Auxl](https://auxl.io/) (macOS) - A Playground for API Development.
