@@ -36,6 +36,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [friflo POST](https://github.com/friflo/vscode-friflo-post) - HTTP Client for VS Code to POST JSON, XML, image, ... files to REST APIs.
 - [WebMaestro](https://www.getwebmaestro.com/) (Windows) - Powerful and simple REST and SOAP tools for developers and testers.
 - [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy for MacOS, Windows, and Linux.
+- [Firecamp](https://firecamp.io/) - API platform for GraphQL, REST, SocketIO and WebSocket.
 
 ## CLI
 
