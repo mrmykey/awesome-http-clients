@@ -37,6 +37,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [WebMaestro](https://www.getwebmaestro.com/) (Windows) - Powerful and simple REST and SOAP tools for developers and testers.
 - [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy for MacOS, Windows, and Linux.
 - [Firecamp](https://firecamp.io/) - API platform for GraphQL, REST, SocketIO and WebSocket.
+- [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) (macOS) - A free open source, native Apple OS X app for testing HTTP/REST endpoints.
 
 ## CLI
 
