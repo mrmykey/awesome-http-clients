@@ -38,6 +38,9 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy for MacOS, Windows, and Linux.
 - [Firecamp](https://firecamp.io/) - API platform for GraphQL, REST, SocketIO and WebSocket.
 - [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) (macOS) - A free open source, native Apple OS X app for testing HTTP/REST endpoints.
+- [Kreya](https://kreya.app/) - gRPC and REST client; Calling APIs made easy
+- [Rest Scope](https://flathub.org/apps/details/com.gitlab.kendellfab.restscope) (Linux) - a simple http/rest testing tool built to fit right in with your existing Gnome setup; built with D and GtkD.
+- [Spectator](https://treagod.github.io/spectator/) (Linux) - Fully customizable way to test your APIs; native GTK
 
 ## CLI
 
@@ -59,7 +62,7 @@ _Web based HTTP Clients (Websites, Browser extensions)._
 - [Resting](http://resting.owlcode.eu/) - WebExtension that permits to test and analyze HTTP request directly from you browser.
 - [CookForWeb Rest Client](https://www.cookforweb.com/tools/rest-client-online) - Simple online REST client tool for testing and debugging an API web service.
 - [Hitman.app](https://hitman.app/dashboard/) - One stop solution for API development, testing and documentation process.
-- [Reky](https://reky.org/) - API development platform, automatically visualizes API response with outstanding graphs & tables.
+- [Restfox](https://restfox.dev/) - Simple browser-based REST client can be installed as Chrome app.
 
 ## Mobile
 
