@@ -41,6 +41,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [Kreya](https://kreya.app/) - gRPC and REST client; Calling APIs made easy
 - [Rest Scope](https://flathub.org/apps/details/com.gitlab.kendellfab.restscope) (Linux) - a simple http/rest testing tool built to fit right in with your existing Gnome setup; built with D and GtkD.
 - [Spectator](https://treagod.github.io/spectator/) (Linux) - Fully customizable way to test your APIs; native GTK
+- [Bruno](https://www.usebruno.com/) Fast and git-friendly open-source API client
 
 ## CLI
 
