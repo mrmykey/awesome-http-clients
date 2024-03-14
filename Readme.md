@@ -16,7 +16,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 
 - [Postman](https://www.postman.com/product/rest-client/) - Complete API development environment.
 - [Insomnia](https://insomnia.rest/products/insomnia) - API client for GraphQL, REST, and gRPC.
-- [Insomnium](https://github.com/ArchGPT/insomnium) - 100% local and privacy-focused fork of Insomnia
+- [Insomnium](https://github.com/ArchGPT/insomnium) - 100% local and privacy-focused fork of Insomnia 2023.5.8
 - [Paw](https://paw.cloud/) (macOS) - Fast and feature rich native macOS application.
 - [Nightingale](https://nightingale.rest/) (Windows) - A modern, resource-efficient REST API client for Windows.
 - [Advanced REST Client](https://install.advancedrestclient.com/install) - Free and open source API testing tool.
