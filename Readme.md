@@ -19,6 +19,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [Insomnium](https://github.com/ArchGPT/insomnium) - 100% local and privacy-focused fork of Insomnia 2023.5.8
 - [Paw](https://paw.cloud/) (macOS) - Fast and feature rich native macOS application.
 - [Nightingale](https://nightingale.rest/) (Windows) - A modern, resource-efficient REST API client for Windows.
+- [YaakApp](https://yaak.app/) - Yaak helps you interact with REST, GraphQL, and gRPC and Websocket.
 - [Advanced REST Client](https://install.advancedrestclient.com/install) - Free and open source API testing tool.
 - [RESTClient](https://github.com/wiztools/rest-client) - RESTClient is a Java application to test RESTful web services.
 - [HTTP Toolkit](https://httptoolkit.tech/) - Open-source HTTP(S) debugging proxy, analyzer & client.
