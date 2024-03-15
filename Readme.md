@@ -62,8 +62,6 @@ _Web based HTTP Clients (Websites, Browser extensions)._
 - [RESTer](https://github.com/frigus02/RESTer) - Browser extension REST client for almost any web service.
 - [Stoplight](https://stoplight.io/) - Stoplight is an API Design, Development, and Documentation platform.
 - [Resting](http://resting.owlcode.eu/) - WebExtension that permits to test and analyze HTTP request directly from you browser.
-- [CookForWeb Rest Client](https://www.cookforweb.com/tools/rest-client-online) - Simple online REST client tool for testing and debugging an API web service.
-- [Hitman.app](https://hitman.app/dashboard/) - One stop solution for API development, testing and documentation process.
 - [Restfox](https://restfox.dev/) - Simple browser-based REST client can be installed as Chrome app.
 
 ## Mobile
