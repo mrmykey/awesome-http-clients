@@ -38,6 +38,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [Requester](https://github.com/kylebebak/Requester) - Powerful, modern HTTP/REST client for SublimeText.
 - [Rest Scope](https://flathub.org/apps/details/com.gitlab.kendellfab.restscope) (Linux) - a simple http/rest testing tool built to fit right in with your existing Gnome setup; built with D and GtkD.
 - [Spectator](https://treagod.github.io/spectator/) (Linux) - Fully customizable way to test your APIs; native GTK
+- [Testfully](https://testfully.io/) - Offline API Client & Testing tool.
 - [Test Mace](https://testmace.com/) - Tool for working with an API and creating automated API tests.
 - [Thunder Client](https://www.thunderclient.io/) - A lightweight Rest API Client Extension for VS Code.
 - [WebMaestro](https://www.getwebmaestro.com/) (Windows) - Powerful and simple REST and SOAP tools for developers and testers.
