@@ -51,7 +51,7 @@ _HTTP Clients accessible from terminal._
 
 - [HttPie](https://httpie.io/cli) - A command-line tool for transferring data with URL syntax.
 - [cURL](https://curl.se/) - Modern, user-friendly command-line HTTP client.
-- [curlie](https://curlie.io/) - The power of curl, the ease of use of httpie.
+- [curlie](https://rs.github.io/curlie/) - The power of curl, the ease of use of httpie.
 - [curlx](https://curlx.dev/) - API Interaction with history, collections and more.
 
 ## WEB
