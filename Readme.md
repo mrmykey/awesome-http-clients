@@ -58,6 +58,7 @@ _HTTP Clients accessible from terminal._
 
 _Web based HTTP Clients (Websites, Browser extensions)._
 
+- [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures real HTTP traffic, auto-generates mocks, and replays scenarios for automated testing.
 - [Hoppscotch](https://hoppscotch.io/) - Open source API development ecosystem.
 - [RESTer](https://github.com/frigus02/RESTer) - Browser extension REST client for almost any web service.
 - [Restfox](https://restfox.dev/) - Simple browser-based REST client can be installed as Chrome app.
