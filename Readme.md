@@ -36,6 +36,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [Postman](https://www.postman.com/product/rest-client/) - Complete API development environment.
 - [RESTClient](https://github.com/wiztools/rest-client) - RESTClient is a Java application to test RESTful web services.
 - [Requester](https://github.com/kylebebak/Requester) - Powerful, modern HTTP/REST client for SublimeText.
+- [Requestly](https://requestly.com) - Open-source, Lightweight, Git-Friendly API Client Built for Modern Developers.
 - [Rest Scope](https://flathub.org/apps/details/com.gitlab.kendellfab.restscope) (Linux) - a simple http/rest testing tool built to fit right in with your existing Gnome setup; built with D and GtkD.
 - [Spectator](https://treagod.github.io/spectator/) (Linux) - Fully customizable way to test your APIs; native GTK
 - [Test Mace](https://testmace.com/) - Tool for working with an API and creating automated API tests.
@@ -59,6 +60,7 @@ _HTTP Clients accessible from terminal._
 _Web based HTTP Clients (Websites, Browser extensions)._
 
 - [Hoppscotch](https://hoppscotch.io/) - Open source API development ecosystem.
+- [Requestly](https://requestly.com) - Open-source, Lightweight, Git-Friendly API Client Built for Modern Developers.
 - [RESTer](https://github.com/frigus02/RESTer) - Browser extension REST client for almost any web service.
 - [Restfox](https://restfox.dev/) - Simple browser-based REST client can be installed as Chrome app.
 - [Resting](http://resting.owlcode.eu/) - WebExtension that permits to test and analyze HTTP request directly from you browser.
