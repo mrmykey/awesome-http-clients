@@ -60,6 +60,7 @@ _HTTP Clients accessible from terminal._
 _Web based HTTP Clients (Websites, Browser extensions)._
 
 - [Hoppscotch](https://hoppscotch.io/) - Open source API development ecosystem.
+- [Vedika API](https://vedika.io) - Vedic astrology API platform with AI chatbot, 108+ endpoints, cURL examples, Postman collection
 - [Requestly](https://requestly.com) - Open-source, Lightweight, Git-Friendly API Client Built for Modern Developers.
 - [RESTer](https://github.com/frigus02/RESTer) - Browser extension REST client for almost any web service.
 - [Restfox](https://restfox.dev/) - Simple browser-based REST client can be installed as Chrome app.
