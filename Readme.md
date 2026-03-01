@@ -66,6 +66,7 @@ _Web based HTTP Clients (Websites, Browser extensions)._
 - [Resting](http://resting.owlcode.eu/) - WebExtension that permits to test and analyze HTTP request directly from you browser.
 - [Stoplight](https://stoplight.io/) - Stoplight is an API Design, Development, and Documentation platform.
 - [Swagger](https://swagger.io/tools/swagger-editor/) - Design, describe, and document APIs on open source editor dedicated to OpenAPI-based APIs.
+- [Webhook Debugger](https://webhook-debugger.autocompany.workers.dev) - Free web-based tool to inspect, debug, and test webhooks in real-time. View headers, payload, and response details.
 
 ## Mobile
 
