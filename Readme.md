@@ -29,6 +29,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [Humlix](https://www.humlix.com/) - Generate tests for your web APIs in minutes.
 - [Insomnia](https://insomnia.rest/products/insomnia) - API client for GraphQL, REST, and gRPC.
 - [Insomnium](https://github.com/ArchGPT/insomnium) - 100% local and privacy-focused fork of Insomnia 2023.5.8
+- [Kaja](https://kaja.tools) (macOS, Docker) - A code-based UI for exploring and calling gRPC and Twirp APIs.
 - [Kreya](https://kreya.app/) - gRPC and REST client; Calling APIs made easy
 - [Milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench.
 - [Nightingale](https://nightingale.rest/) (Windows) - A modern, resource-efficient REST API client for Windows.
