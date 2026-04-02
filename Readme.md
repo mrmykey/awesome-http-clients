@@ -41,6 +41,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [Spectator](https://treagod.github.io/spectator/) (Linux) - Fully customizable way to test your APIs; native GTK
 - [Test Mace](https://testmace.com/) - Tool for working with an API and creating automated API tests.
 - [Thunder Client](https://www.thunderclient.io/) - A lightweight Rest API Client Extension for VS Code.
+- [Voiden](https://voiden.md/) - Markdown Based Offline Api Client with linked blocks - No Sign in required
 - [WebMaestro](https://www.getwebmaestro.com/) (Windows) - Powerful and simple REST and SOAP tools for developers and testers.
 - [Wisdom rest-client](https://github.com/wisdom-projects/rest-client) - A tool for automated testing REST API.
 - [YaakApp](https://yaak.app/) - Yaak helps you interact with REST, GraphQL, and gRPC and Websocket.
