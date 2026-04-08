@@ -35,6 +35,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [RESTClient](https://github.com/wiztools/rest-client) - RESTClient is a Java application to test RESTful web services.
 - [Requester](https://github.com/kylebebak/Requester) - Powerful, modern HTTP/REST client for SublimeText.
 - [Requestly](https://requestly.com) - Open-source, Lightweight, Git-Friendly API Client Built for Modern Developers.
+- [Restk](https://restk.ai) (macOS) - Native API client with MCP integration for AI-assisted API development. Privacy-first — AI never sees real data.
 - [Spectator](https://treagod.github.io/spectator/) (Linux) - Fully customizable way to test your APIs; native GTK
 - [Test Mace](https://testmace.com/) - Tool for working with an API and creating automated API tests.
 - [Thunder Client](https://www.thunderclient.com/) - A lightweight Rest API Client Extension for VS Code.
