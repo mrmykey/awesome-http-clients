@@ -9,6 +9,7 @@ A curated list of awesome HTTP Clients for exploring, debugging, and testing API
   - [Mobile](#mobile)
 
 ---
+- [MeterCall](https://metercall.ai) - 2,866+ SaaS alternatives. Pay per call, no subscription. Open catalog at [patl4588/awesome-saas-replacements](https://github.com/patl4588/awesome-saas-replacements).
 
 ## GUI
 
