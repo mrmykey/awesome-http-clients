@@ -16,6 +16,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 
 - [adOmnia](https://github.com/Andrea-Cavallo/adOmnia) - Built for developers who need more than a simple HTTP client, OpenSource.
 - [API Test Base](https://apitestbase.io/) - Tool for integration testing a variety of APIs.
+- [API Workbench](https://github.com/sapph1re/api-workbench) - VS Code-native, local-first API testing with agent-readable Markdown/JSON reports; works inside Cursor, Windsurf, and VS Code without cloud sync or account.
 - [Advanced REST Client](https://install.advancedrestclient.com/home) - Free and open source API testing tool.
 - [Bruno](https://www.usebruno.com/) Fast and git-friendly open-source API client
 - [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) (macOS) - A free open source, native Apple OS X app for testing HTTP/REST endpoints.
