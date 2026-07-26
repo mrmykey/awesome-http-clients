@@ -60,6 +60,8 @@ _HTTP Clients accessible from terminal._
 _Web based HTTP Clients (Websites, Browser extensions)._
 
 - [Hoppscotch](https://hoppscotch.io/) - Open source API development ecosystem.
+- [Parsistent](https://parsistent.com) - Free browser-based toolkit: HTTP request tester with proxy & anti-bot detection, CSS selector, XPath, regex, JSON
+  formatter, diff checker.
 - [Requestly](https://requestly.com) - Open-source, Lightweight, Git-Friendly API Client Built for Modern Developers.
 - [RESTer](https://github.com/frigus02/RESTer) - Browser extension REST client for almost any web service.
 - [Restfox](https://restfox.dev/) - Simple browser-based REST client can be installed as Chrome app.
