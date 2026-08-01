@@ -59,6 +59,7 @@ _HTTP Clients accessible from terminal._
 
 _Web based HTTP Clients (Websites, Browser extensions)._
 
+- [cURL to Code](https://nutilz.com/curl-to-code) - Free browser-based converter that turns any cURL command into Python, JavaScript, Go, PHP or Ruby request code. No sign-up, no upload.
 - [Hoppscotch](https://hoppscotch.io/) - Open source API development ecosystem.
 - [Parsistent](https://parsistent.com) - Free browser-based toolkit: HTTP request tester with proxy & anti-bot detection, CSS selector, XPath, regex, JSON
   formatter, diff checker.
