@@ -60,6 +60,7 @@ _HTTP Clients accessible from terminal._
 _Web based HTTP Clients (Websites, Browser extensions)._
 
 - [Hoppscotch](https://hoppscotch.io/) - Open source API development ecosystem.
+- [Nutilz HTTP Header Checker](https://nutilz.com/http-header-checker) - Free browser-based tool to inspect response headers for any URL: status code, redirect chain, and security headers (HSTS, CSP, X-Frame-Options). No sign-up.
 - [Parsistent](https://parsistent.com) - Free browser-based toolkit: HTTP request tester with proxy & anti-bot detection, CSS selector, XPath, regex, JSON
   formatter, diff checker.
 - [Requestly](https://requestly.com) - Open-source, Lightweight, Git-Friendly API Client Built for Modern Developers.
