@@ -54,6 +54,7 @@ _HTTP Clients accessible from terminal._
 - [cURL](https://curl.se/) - Modern, user-friendly command-line HTTP client.
 - [curlie](https://rs.github.io/curlie/) - The power of curl, the ease of use of httpie.
 - [curlx](https://curlx.dev/) - API Interaction with history, collections and more.
+- [Flexiberry CLI](https://www.npmjs.com/package/@flexiberry/cli) ([repo](https://github.com/flexiberry/flexiberry)) - Command-line interface for running sequential API workflows.
 
 ## WEB
 
@@ -64,6 +65,7 @@ _Web based HTTP Clients (Websites, Browser extensions)._
   formatter, diff checker.
 - [Requestly](https://requestly.com) - Open-source, Lightweight, Git-Friendly API Client Built for Modern Developers.
 - [RESTer](https://github.com/frigus02/RESTer) - Browser extension REST client for almost any web service.
+- [Flexiberry](https://flexiberry.dev) ([repo](https://github.com/flexiberry/flexiberry)) - Developer-first HTTP client built for sequential API workflows.
 - [Restfox](https://restfox.dev/) - Simple browser-based REST client can be installed as Chrome app.
 - [Resting](http://resting.owlcode.eu/) - WebExtension that permits to test and analyze HTTP request directly from you browser.
 - [Stoplight](https://stoplight.io/) - Stoplight is an API Design, Development, and Documentation platform.
