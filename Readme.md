@@ -31,6 +31,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [Kaja](https://kaja.tools) (macOS, Docker) - A code-based UI for exploring and calling gRPC and Twirp APIs.
 - [Kreya](https://kreya.app/) - gRPC and REST client; Calling APIs made easy
 - [Milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench.
+- [Mongrel](https://www.visorcraft.com/mongrel) (Windows, macOS, Linux) - Desktop workbench with an HTTP/REST, GraphQL, WebSocket, and gRPC API client.
 - [Nightingale](https://nightingale.rest/) (Windows) - A modern, resource-efficient REST API client for Windows.
 - [Paw](https://paw.cloud/) (macOS) - Fast and feature rich native macOS application.
 - [Postman](https://www.postman.com/product/rest-client/) - Complete API development environment.
