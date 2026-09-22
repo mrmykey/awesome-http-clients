@@ -24,6 +24,7 @@ _Desktop HTTP Clients with graphical user interfaces._
 - [Firecamp](https://firecamp.io/) - API platform for GraphQL, REST, SocketIO and WebSocket.
 - [GetIt](https://getit.bartkessels.net/) (Linux) - Application to send HTTP requests to test your API endpoints.
 - [HarborClient](https://harborclient.com) (Windows, macOS, Linux) The free API client that keeps your work private: no accounts, no subscriptions, no lock-in.
+- [HTTP Client Runner](https://marketplace.visualstudio.com/items?itemName=sellerkit.httprunner) - VS Code extension that sends requests from existing .http files (REST Client format) and can run a whole file, reporting only responses that changed. Sending single requests is free; whole-file runs are paid.
 - [HTTP Toolkit](https://httptoolkit.tech/) - Open-source HTTP(S) debugging proxy, analyzer & client.
 - [HttpMaster](https://www.httpmaster.net/) (Windows) - Professional Windows tool for HTTP testing and debugging.
 - [Humlix](https://www.humlix.com/) - Generate tests for your web APIs in minutes.
