@@ -70,6 +70,7 @@ _Web based HTTP Clients (Websites, Browser extensions)._
 - [Resting](http://resting.owlcode.eu/) - WebExtension that permits to test and analyze HTTP request directly from you browser.
 - [Stoplight](https://stoplight.io/) - Stoplight is an API Design, Development, and Documentation platform.
 - [Swagger](https://swagger.io/tools/swagger-editor/) - Design, describe, and document APIs on open source editor dedicated to OpenAPI-based APIs.
+- [Wayfarer](https://wayfarer.ashwinsathian.com) - Free, open source, local-first API client that runs in a browser tab with no account. Imports Postman, Insomnia, OpenAPI, HAR and cURL.
 
 ## Mobile
 
